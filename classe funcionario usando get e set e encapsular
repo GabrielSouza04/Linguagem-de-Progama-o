@@ -1,0 +1,22 @@
+class Funcionario
+{
+private string nome;
+private double salario;
+
+public string get nome () {
+return this.nome;
+}
+
+public void set nome (string nome) {
+this.nome = nome;
+}
+
+public double getSalario ()
+{
+return this.salario;
+}
+
+public void setSalario(double.salario)
+{
+this.salario;
+}
