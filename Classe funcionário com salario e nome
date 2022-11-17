@@ -1,0 +1,5 @@
+Class Funcionario
+{
+public string nome;
+public double salrio;
+}
