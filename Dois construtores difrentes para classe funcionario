@@ -1,0 +1,13 @@
+public Funcionario()
+{
+}
+(se estivesse no main devetria ter um new)
+
+
+////////////////////
+
+public Funcionario(string nome double salario)
+{
+this.nome=nome;
+this.salario=salario;
+}
